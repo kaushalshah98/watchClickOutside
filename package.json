@@ -1,0 +1,24 @@
+{
+  "name": "watch-click-outside",
+  "version": "1.0.0",
+  "description": "It will trigger the event when click is outside that wrapped component",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kaushal shah <kaushalshah589@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^16.13.0",
+    "react-dom": "^16.8.6"
+  },
+  "devDependencies": {
+    "@tailwindcss/ui": "^0.5.0",
+    "@types/classnames": "^2.2.8",
+    "@types/react": "^16.8.21",
+    "react-scripts": "^3.4.1",
+    "tailwindcss": "^1.6.2",
+    "ts-loader": "^6.2.1",
+    "tslint": "^6.0.0",
+    "typescript": "^3.5.2"
+  }
+}
